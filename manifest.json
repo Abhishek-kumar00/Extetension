@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Daily Coding Problem Redirect",
+    "version": "1.0",
+    "description": "Redirects Google searches to daily coding problems",
+    "permissions": [
+      "storage",
+      "webRequest",
+      "webRequestBlocking",
+      "*://www.google.com/search?*"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    }
+  }

@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Arrays & Hashing",
+        "href": "https://leetcode.com/problems/contains-duplicate/",
+        "text": "Contains Duplicate",
+        "difficulty": "Easy",
+        "isPremium": false
+    },
+    {
+        "category": "Arrays & Hashing",
+        "href": "https://leetcode.com/problems/valid-anagram/",
+        "text": "Valid Anagram",
+        "difficulty": "Easy",
+        "isPremium": false
+    },
+    {
+        "category": "Arrays & Hashing",
+        "href": "https://leetcode.com/problems/concatenation-of-array/",
+        "text": "Concatenation of Array",
+        "difficulty": "Easy",
+        "isPremium": false
+    }
+]
